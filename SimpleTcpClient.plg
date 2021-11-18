@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SimpleTcpClient - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Release/SimpleTcpClient.res" /d "NDEBUG" /d "_AFXDLL" "C:\Documents and Settings\Administrator\×ÀÃæ\SimpleTcpClientSrc\SimpleTcpClient.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1FC.tmp" with contents
+[
+ws2_32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/SimpleTcpClient.pdb" /machine:I386 /out:"Release/SimpleTcpClient.exe" 
+".\Release\SimpleTcpClient.obj"
+".\Release\SimpleTcpClientDlg.obj"
+".\Release\StdAfx.obj"
+".\Release\SimpleTcpClient.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1FC.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+SimpleTcpClient.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
